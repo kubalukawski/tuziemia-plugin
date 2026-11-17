@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tuziemia": {
+      "type": "http",
+      "url": "https://tuziemia.pl/mcp"
+    }
+  }
+}

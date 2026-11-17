@@ -1,0 +1,29 @@
+{
+  "name": "tuziemia-pl",
+  "version": "1.0.0",
+  "description": "Wyszukiwarka i analityka działek na sprzedaż",
+  "author": {
+    "name": "tuziemia.pl",
+    "email": "kontakt@tuziemia.pl",
+    "url": "https://tuziemia.pl"
+  },
+  "homepage": "https://tuziemia.pl",
+  "license": "MIT",
+  "repository": "https://github.com/kubalukawski/tuziemia-plugin",
+  "keywords": ["działki", "działki na sprzedaż", "nieruchomości", "grunty", "ceny gruntów", "Polska", "MCP"],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "tuziemia.pl",
+    "shortDescription": "Wyszukiwarka i analityka działek na sprzedaż",
+    "longDescription": "tuziemia.pl to polski portal z działkami na sprzedaż, na którym każda oferta ma granice działki na mapie, identyfikator ewidencyjny i dane z rejestrów publicznych. Plugin pozwala wyszukać działki w dowolnej gminie, mieście, powiecie lub województwie (filtry ceny, powierzchni i rodzaju: budowlana, rolna, leśna, inwestycyjna, rekreacyjna), sprawdzić szczegóły działki (przeznaczenie w planie ogólnym gminy, użytki z ewidencji, ostrzeżenia o pobliskich uciążliwościach oraz planowanych drogach i liniach kolejowych) i poznać ceny gruntów w okolicy: mediany cen ofertowych oraz rzeczywiste ceny transakcyjne z Rejestru Cen Nieruchomości z ostatnich 12 miesięcy. Każdy wynik prowadzi do oferty na tuziemia.pl z mapą i kontaktem do sprzedającego. Plugin tylko odczytuje publiczne dane i nie przekazuje danych osobowych sprzedających.",
+    "developerName": "tuziemia.pl",
+    "category": "Research",
+    "capabilities": ["Read"],
+    "websiteURL": "https://tuziemia.pl",
+    "privacyPolicyURL": "https://tuziemia.pl/polityka-prywatnosci",
+    "termsOfServiceURL": "https://tuziemia.pl/regulamin",
+    "defaultPrompt": "Znajdź działki budowlane w gminie Kowala do 150 tys. zł",
+    "logo": "./icon.png"
+  }
+}

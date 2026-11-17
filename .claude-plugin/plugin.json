@@ -1,0 +1,14 @@
+{
+  "name": "tuziemia-pl",
+  "version": "1.0.0",
+  "description": "Wyszukiwarka i analityka działek na sprzedaż w Polsce: oferty z granicami działek na mapie, plany ogólne gmin, ceny ofertowe i transakcyjne z Rejestru Cen Nieruchomości.",
+  "author": {
+    "name": "tuziemia.pl",
+    "email": "kontakt@tuziemia.pl",
+    "url": "https://tuziemia.pl"
+  },
+  "homepage": "https://tuziemia.pl",
+  "repository": "https://github.com/kubalukawski/tuziemia-plugin",
+  "license": "MIT",
+  "keywords": ["działki", "działki na sprzedaż", "nieruchomości", "grunty", "ceny gruntów", "Polska", "real estate", "land", "MCP"]
+}
