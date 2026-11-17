@@ -48,7 +48,7 @@ Plugin korzysta wyłącznie z publicznych danych tuziemia.pl i niczego nie zapis
 
 - **Czego nie zwraca:** imion, telefonów i adresów e-mail sprzedających ani numerów ksiąg wieczystych. Dane kontaktowe wpisane w opisy ofert są automatycznie usuwane.
 - **Logowanie:** serwer nie wymaga logowania i nie przechowuje treści zapytań.
-- **Więcej:** [polityka prywatności](https://tuziemia.pl/polityka-prywatnosci#chatgpt).
+- **Więcej:** [polityka prywatności](https://tuziemia.pl/polityka-prywatnosci#asystenci-ai).
 
 ## Kontakt
 
